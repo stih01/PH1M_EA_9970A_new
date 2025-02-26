@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/tpv/PH1M_EA_9970A_new
+DEVICE_PATH := device/tpv/PH1M_EA_9970A
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
