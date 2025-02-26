@@ -1,0 +1,2 @@
+
+/vendor/firmware/EEPROM_MT7663.bin
