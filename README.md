@@ -6,5 +6,5 @@
 # Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
 #
 # SPDX-License-Identifier: Apache-2.0
-#
+# TPM211EA_R.101.001.005.109
 ```
