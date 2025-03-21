@@ -17,7 +17,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 #$(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 
 # Inherit from PH1M_EA_9970A device
-$(call inherit-product, device/Philips/PH1M_EA_9970A/device.mk)
+$(call inherit-product, device/Philips/PH1M_EA_9970A_new/device.mk)
 
 PRODUCT_DEVICE := PH1M_EA_9970A
 PRODUCT_NAME := twrp_PH1M_EA_9970A
