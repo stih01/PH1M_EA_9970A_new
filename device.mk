@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/Philips/PH1M_EA_9970A
+LOCAL_PATH := device/Philips/PH1M_EA_9970A_new
 
 # A/B
 AB_OTA_UPDATER := true
