@@ -20,7 +20,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/Philips/PH1M_EA_9970A_new/device.mk)
 
 PRODUCT_DEVICE := PH1M_EA_9970A
-PRODUCT_NAME := twrp_PH1M_EA_9970A
+PRODUCT_NAME := PH1M_EA_9970A
 PRODUCT_BRAND := Philips
 PRODUCT_MODEL := 2021/22 Philips UHD Android TV
 PRODUCT_MANUFACTURER := TPV
