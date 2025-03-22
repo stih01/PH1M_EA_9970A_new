@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_PH1M_EA_9970A.mk
+    $(LOCAL_DIR)/twrp_PH1M_EA_9970B.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_PH1M_EA_9970A-user \
-    twrp_PH1M_EA_9970A-userdebug \
-    twrp_PH1M_EA_9970A-eng
+    twrp_PH1M_EA_9970B-user \
+    twrp_PH1M_EA_9970B-userdebug \
+    twrp_PH1M_EA_9970B-eng
