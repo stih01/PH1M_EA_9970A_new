@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/Philips/PH1M_EA_9970A_new
+DEVICE_PATH := device/Philips/PH1M_EA_9970B
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -67,7 +67,7 @@ BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOTIMG_HEADER_VERSION)
 BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 TARGET_KERNEL_CONFIG := PH1M_EA_9970A_defconfig
-TARGET_KERNEL_SOURCE := kernel/Philips/PH1M_EA_9970A_new
+TARGET_KERNEL_SOURCE := kernel/Philips/PH1M_EA_9970B
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
