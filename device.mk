@@ -55,6 +55,10 @@ PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0-impl \
     android.hardware.gatekeeper@1.0-service
 
+TARGET_RECOVERY_DEVICE_MODULES := \
+    android.hardware.keymaster@4.0-service.trusty \
+    android.hardware.gatekeeper@1.0-service.trusty
+
 # Additional binaries & libraries needed for recovery
 TW_RECOVERY_ADDITIONAL_RELINK_LIBRARY_FILES += \
     $(TARGET_OUT_SHARED_LIBRARIES)/libpuresoftkeymasterdevice.so \
